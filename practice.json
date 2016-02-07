@@ -1,0 +1,43 @@
+{
+  "feedback": [
+    {
+      "firstName": "Medhavin",
+      "lastName": "Goyal",
+      "tel": {
+        "areaCode": "+91",
+        "number": "9871576100"
+      },
+      "email": "g.medhavin@gmail.com",
+      "agree": true,
+      "mychannel": "tel",
+      "comments": "Hello",
+      "id": 10
+    },
+    {
+      "firstName": "Arpit",
+      "lastName": "Goel",
+      "tel": {
+        "areaCode": "+91",
+        "number": "9163061060"
+      },
+      "email": "arpitg91@gmail.com",
+      "agree": true,
+      "mychannel": "tel",
+      "comments": "Good one!",
+      "id": 2
+    },
+    {
+      "firstName": "Prashant",
+      "lastName": "Kumar",
+      "tel": {
+        "areaCode": "+91",
+        "number": "9876543210"
+      },
+      "email": "agprashant@gmail.com",
+      "agree": false,
+      "mychannel": "email",
+      "comments": "Aha!",
+      "id": 11
+    }
+  ]
+}
